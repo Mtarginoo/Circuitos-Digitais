@@ -18,7 +18,7 @@
 // the top level entity of the current Quartus project .The user can use this   
 // testbench to simulate his design using a third-party simulation tool .       
 // *****************************************************************************
-// Generated on "09/21/2018 23:47:25"
+// Generated on "09/22/2018 14:25:21"
                                                                         
 // Verilog Self-Checking Test Bench (with test vectors) for design :    Dec7Seg
 // 
@@ -351,32 +351,32 @@ Dec7Seg i1 (
 initial
 begin
 	s0 = 1'b0;
-	s0 = #100000 1'b1;
-	s0 = #100000 1'b0;
-	s0 = #120000 1'b1;
-	s0 = #120000 1'b0;
-	s0 = #120000 1'b1;
-	s0 = #120000 1'b0;
-	s0 = #140000 1'b1;
-	s0 = #140000 1'b0;
+	s0 = #80000 1'b1;
+	s0 = #80000 1'b0;
+	s0 = #80000 1'b1;
+	s0 = #80000 1'b0;
+	s0 = #80000 1'b1;
+	s0 = #80000 1'b0;
+	s0 = #80000 1'b1;
+	s0 = #80000 1'b0;
 end 
 
 // s1
 initial
 begin
 	s1 = 1'b0;
-	s1 = #200000 1'b1;
-	s1 = #240000 1'b0;
-	s1 = #240000 1'b1;
-	s1 = #280000 1'b0;
+	s1 = #160000 1'b1;
+	s1 = #160000 1'b0;
+	s1 = #160000 1'b1;
+	s1 = #160000 1'b0;
 end 
 
 // s2
 initial
 begin
 	s2 = 1'b0;
-	s2 = #440000 1'b1;
-	s2 = #520000 1'b0;
+	s2 = #320000 1'b1;
+	s2 = #320000 1'b0;
 end 
 
 Dec7Seg_vlg_sample_tst tb_sample (

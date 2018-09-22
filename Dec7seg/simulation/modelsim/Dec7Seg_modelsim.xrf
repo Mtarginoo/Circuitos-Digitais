@@ -1,7 +1,8 @@
 vendor_name = ModelSim
-source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Dec7Seg.vhd
-source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Waveform.vwf
-source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/db/Dec7Seg.cbx.xml
+source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Dec7seg/Dec7Seg.vhd
+source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Dec7seg/Waveform.vwf
+source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Dec7seg/Waveform1.vwf
+source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Dec7seg/db/Dec7Seg.cbx.xml
 source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
 source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
 source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_b.vhd

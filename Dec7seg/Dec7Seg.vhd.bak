@@ -6,7 +6,8 @@ entity Dec7Seg is
 		a, b, c, d, e, f, g : out std_logic);
 end Dec7Seg;
 
-architecture estrutura of Dec7Seg is
+architecture estrutura of dec7Seg is
+signal a1, a2, b1, d1, d2, d3, d4, e1, e2, f1, f2, f3, g1, g2, g3: std_logic;
 begin
  a <= (not(s2)and not(s0)) or (s2 and s0) or s1;
  b <= not(s2) or (not(s1) and not(s0)) or s1;
