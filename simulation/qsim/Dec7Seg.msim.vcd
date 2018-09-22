@@ -1,0 +1,172 @@
+$comment
+	File created using the following command:
+		vcd file Dec7Seg.msim.vcd -direction
+$end
+$date
+	Fri Sep 21 23:47:37 2018
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module Dec7Seg_vlg_vec_tst $end
+$var reg 1 ! s0 $end
+$var reg 1 " s1 $end
+$var reg 1 # s2 $end
+$var wire 1 $ a $end
+$var wire 1 % b $end
+$var wire 1 & c $end
+$var wire 1 ' d $end
+$var wire 1 ( e $end
+$var wire 1 ) f $end
+$var wire 1 * g $end
+$var wire 1 + sampler $end
+$scope module i1 $end
+$var wire 1 , gnd $end
+$var wire 1 - vcc $end
+$var wire 1 . unknown $end
+$var tri1 1 / devclrn $end
+$var tri1 1 0 devpor $end
+$var tri1 1 1 devoe $end
+$var wire 1 2 s1~combout $end
+$var wire 1 3 s2~combout $end
+$var wire 1 4 s0~combout $end
+$var wire 1 5 a~0_combout $end
+$var wire 1 6 b~0_combout $end
+$var wire 1 7 c~0_combout $end
+$var wire 1 8 d~0_combout $end
+$var wire 1 9 e~0_combout $end
+$var wire 1 : f~0_combout $end
+$var wire 1 ; g~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+1$
+1%
+1&
+1'
+1(
+1)
+0*
+x+
+0,
+1-
+x.
+1/
+10
+11
+02
+03
+04
+15
+16
+17
+18
+19
+1:
+0;
+$end
+#100000
+1!
+14
+0+
+0:
+09
+08
+05
+0)
+0(
+0'
+0$
+#200000
+1"
+0!
+12
+04
+1+
+1;
+19
+18
+07
+15
+1*
+1(
+1'
+0&
+1$
+#320000
+1!
+14
+0+
+09
+17
+0(
+1&
+#440000
+1#
+0"
+0!
+13
+02
+04
+1+
+1:
+08
+05
+1)
+0'
+0$
+#560000
+1!
+14
+0+
+18
+06
+15
+1'
+0%
+1$
+#680000
+1"
+0!
+12
+04
+1+
+19
+16
+1(
+1%
+#820000
+1!
+14
+0+
+0;
+0:
+09
+08
+0*
+0)
+0(
+0'
+#960000
+0#
+0"
+0!
+03
+02
+04
+1+
+1:
+19
+18
+1)
+1(
+1'
+#1000000

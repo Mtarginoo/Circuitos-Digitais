@@ -1,0 +1,31 @@
+|Dec7Seg
+s2 => a.IN0
+s2 => c.IN0
+s2 => d.IN0
+s2 => f.IN0
+s2 => a.IN0
+s2 => b.IN1
+s2 => d.IN0
+s1 => a.IN1
+s1 => b.IN1
+s1 => d.IN1
+s1 => d.IN0
+s1 => b.IN0
+s1 => c.IN1
+s1 => d.IN1
+s0 => a.IN1
+s0 => c.IN1
+s0 => d.IN1
+s0 => a.IN1
+s0 => b.IN1
+s0 => d.IN1
+s0 => f.IN1
+a <= a.DB_MAX_OUTPUT_PORT_TYPE
+b <= b.DB_MAX_OUTPUT_PORT_TYPE
+c <= c.DB_MAX_OUTPUT_PORT_TYPE
+d <= d.DB_MAX_OUTPUT_PORT_TYPE
+e <= e.DB_MAX_OUTPUT_PORT_TYPE
+f <= f.DB_MAX_OUTPUT_PORT_TYPE
+g <= g.DB_MAX_OUTPUT_PORT_TYPE
+
+
