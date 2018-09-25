@@ -1,0 +1,16 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity counter is 
+		port(
+			s0, s1, s2, enable, reset, cre_decre: in std_logic;
+			n2, n1, n0: out std_logic);
+end counter;
+
+architecture harware of counter is
+begin
+		n2<=(not(s2) and not(s1) and not(s0) and enable and not(cre_decre)) or (not(s2)and s1 and s0 and enable and cre_decre) or (s2 and not(s1) and s0 and reset) or (s2 and not(s1) and enable and cre_decre) or (s2 and not(s0)and enable and cre_decre) or (s2 and not(enable)and reset) or (s2 and s1 and enable and not(cre_decre));
+		n1<=(not(s1)and not(s0) and enable and not(cre_decre)) or (not(s1) and s0 and enable and cre_decre) or (s1 and not(s0) and enable and cre_decre) or (s1 and not(enable) and reset) or (s1 and s0 and enable and not(cre_decre));
+		n0<=(not(s0) and enable) or (so and not(enable) and reset); 
+end hardware;
+		
