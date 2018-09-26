@@ -1,5 +1,5 @@
 Analysis & Synthesis report for Dec7Seg
-Sat Sep 22 14:26:56 2018
+Tue Sep 25 15:07:33 2018
 Quartus II 64-Bit Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
 
 
@@ -41,7 +41,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                    ;
 +------------------------------------+--------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Sat Sep 22 14:26:56 2018      ;
+; Analysis & Synthesis Status        ; Successful - Tue Sep 25 15:07:33 2018      ;
 ; Quartus II 64-Bit Version          ; 13.0.0 Build 156 04/24/2013 SJ Web Edition ;
 ; Revision Name                      ; Dec7Seg                                    ;
 ; Top-level Entity Name              ; Dec7Seg                                    ;
@@ -233,7 +233,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Analysis & Synthesis
     Info: Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
-    Info: Processing started: Sat Sep 22 14:26:54 2018
+    Info: Processing started: Tue Sep 25 15:07:30 2018
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off Dec7Seg -c Dec7Seg
 Warning (20028): Parallel compilation is not licensed and has been disabled
 Info (12021): Found 2 design units, including 1 entities, in source file dec7seg.vhd
@@ -248,8 +248,8 @@ Info (21057): Implemented 17 device resources after synthesis - the final resour
     Info (21061): Implemented 7 logic cells
 Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 4658 megabytes
-    Info: Processing ended: Sat Sep 22 14:26:56 2018
-    Info: Elapsed time: 00:00:02
+    Info: Processing ended: Tue Sep 25 15:07:33 2018
+    Info: Elapsed time: 00:00:03
     Info: Total CPU time (on all processors): 00:00:02
 
 

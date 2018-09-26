@@ -1,0 +1,37 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.std_logic_unsigned.all;
+
+entity contador is 
+	port (clock, S, E, R: in std_logic;
+	q : out std_logic_vector(2 downto 0));
+end contador;
+
+architecture comportamento of contador is
+--component dec7seg is
+	--port(s2, s1, s0 : in std_logic;
+		--a, b, c, d, e, f, g : out std_logic);
+		--signal aux: std_logic_vector(2 downto 0);
+--end component;
+begin
+	process(clock, E, R, S)
+	begin 
+		if(clock = '1' and clock'event) then
+			if(E = '1') then
+				if(s = '1') then
+					aux <= aux+1;
+				else 
+					aux <= aux-1;
+				end if;
+			else
+				if (R = '0') then
+				aux <= "000";
+				end if;
+			end if;	
+		end if;
+	end process;
+	q <= aux;
+	
+	--dec7seg port map (q(2), q(1), q(0));
+	
+end comportamento;	

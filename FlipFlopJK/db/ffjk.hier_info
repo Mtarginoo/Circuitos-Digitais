@@ -1,0 +1,14 @@
+|ffjk
+j => process_0.IN0
+j => process_0.IN0
+j => process_0.IN0
+k => process_0.IN1
+k => process_0.IN1
+k => process_0.IN1
+clock => estado.CLK
+preset => estado.PRESET
+preset => estado.IN0
+clear => estado.IN1
+q <= estado.DB_MAX_OUTPUT_PORT_TYPE
+
+

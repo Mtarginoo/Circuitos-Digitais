@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Aluno\Documents\cd2\simulation\qsim
+vcontador
+Z1 I5I`=^GBeoJ5z=5EA?[mRR2
+Z2 V2g:?fEOb9nC8[_:fUO_[e1
+Z3 dC:\Users\Aluno\Documents\cd2\simulation\qsim
+Z4 w1537903049
+Z5 8contador.vo
+Z6 Fcontador.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 :d19a3F1PQm5jimSKHG>Q3
+!s85 0
+Z10 !s108 1537903054.280000
+Z11 !s107 contador.vo|
+Z12 !s90 -work|work|contador.vo|
+!s101 -O0
+vcontador_vlg_check_tst
+!i10b 1
+!s100 4W;hgNlG=7UmUXK]`BF^V2
+I9bDD@_Qm@aBPg=O539L>H0
+V=f;V9B4gG>U4^g^Rb_`8F2
+R3
+Z13 w1537903048
+Z14 8contador.vt
+Z15 Fcontador.vt
+L0 63
+R7
+r1
+!s85 0
+31
+Z16 !s108 1537903054.453000
+Z17 !s107 contador.vt|
+Z18 !s90 -work|work|contador.vt|
+!s101 -O0
+R8
+vcontador_vlg_sample_tst
+!i10b 1
+!s100 ZBnbh9?g48HDVbobYSDZU0
+IFCD4<8:hCbB4ERiRT7<k62
+Vle[:dzoN0MiTGA5=RzYE91
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vcontador_vlg_vec_tst
+!i10b 1
+!s100 9aenIGEBDoXdU9g7zEJ[g2
+Icie<ebW7=J4Gi>B_ecVZn2
+Vg7eM`4C4en1cUe:c[RGT<3
+R3
+R13
+R14
+R15
+L0 327
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
