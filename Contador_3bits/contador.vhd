@@ -1,6 +1,18 @@
+--Universidade Federal do Rio Grande do Norte
+--
+--Departamento de Engenharia de Computação e Automação
+--
+--Disciplina: DCA0212.1 - Circuitos Digitais - Laboratório
+--
+--Docente: EMANOEL RAIMUNDO QUEIROZ CHAVES JUNIOR 
+--
+--Autores: LOURIVAL ALEXANDRE DA CUNHA NETO -  2016012276
+--         MATHEUS TARGINO BARBOSA - 20160152072
+--         SAUL PEDRO MEDEIROS DE AZEVEDO - 2016010039
+--
 library ieee;
 use ieee.std_logic_1164.all; 
-use ieee.std_logic_unsigned.all;                 --habilitando os operadadores "+" e"-"
+use ieee.std_logic_unsigned.all;                 --habilitando os operadadores "+" e "-"
 
 entity contador is                               --Definindo a entidade.
 	port (clock, S, E, R: in std_logic;           --Variáveis para o clock, incremento/decrecmento(S), enable(E) e reset(R).

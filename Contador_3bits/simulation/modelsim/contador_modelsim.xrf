@@ -1,8 +1,8 @@
 vendor_name = ModelSim
-source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/cd2/contador.vhd
-source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/cd2/dec7seg.vhd
-source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/cd2/Waveform.vwf
-source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/cd2/db/contador.cbx.xml
+source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Contador_3bits/contador.vhd
+source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Contador_3bits/dec7seg.vhd
+source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Contador_3bits/Waveform.vwf
+source_file = 1, C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Contador_3bits/db/contador.cbx.xml
 source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
 source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
 source_file = 1, c:/altera/13.0/quartus/libraries/vhdl/ieee/timing_b.vhd

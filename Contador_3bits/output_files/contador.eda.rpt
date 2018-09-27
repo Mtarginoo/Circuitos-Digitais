@@ -1,5 +1,5 @@
 EDA Netlist Writer report for contador
-Wed Sep 26 23:50:08 2018
+Wed Sep 26 21:55:15 2018
 Quartus II 64-Bit Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
 
 
@@ -36,7 +36,7 @@ applicable agreement for further details.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Wed Sep 26 23:50:08 2018 ;
+; EDA Netlist Writer Status ; Successful - Wed Sep 26 21:55:15 2018 ;
 ; Revision Name             ; contador                              ;
 ; Top-level Entity Name     ; contador                              ;
 ; Family                    ; Cyclone II                            ;
@@ -65,13 +65,13 @@ applicable agreement for further details.
 +---------------------------------------------------------------------------------------------------+---------------------------+
 
 
-+---------------------------------------------------------------------------------------------------------------------------------+
-; Simulation Generated Files                                                                                                      ;
-+---------------------------------------------------------------------------------------------------------------------------------+
-; Generated Files                                                                                                                 ;
-+---------------------------------------------------------------------------------------------------------------------------------+
-; C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/cd2/simulation/modelsim/contador.vo ;
-+---------------------------------------------------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------------------------------+
+; Simulation Generated Files                                                                                                                 ;
++--------------------------------------------------------------------------------------------------------------------------------------------+
+; Generated Files                                                                                                                            ;
++--------------------------------------------------------------------------------------------------------------------------------------------+
+; C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Contador_3bits/simulation/modelsim/contador.vo ;
++--------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 +-----------------------------+
@@ -80,12 +80,12 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit EDA Netlist Writer
     Info: Version 13.0.0 Build 156 04/24/2013 SJ Web Edition
-    Info: Processing started: Wed Sep 26 23:50:07 2018
+    Info: Processing started: Wed Sep 26 21:55:14 2018
 Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off contador -c contador
-Info (204019): Generated file contador.vo in folder "C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/cd2/simulation/modelsim/" for EDA simulation tool
+Info (204019): Generated file contador.vo in folder "C:/Users/Matheus/Documents/UFRN/Ciências e tecnologia/Quinto Semestre/Circuitos Digitais/CD/Contador_3bits/simulation/modelsim/" for EDA simulation tool
 Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
     Info: Peak virtual memory: 4543 megabytes
-    Info: Processing ended: Wed Sep 26 23:50:08 2018
+    Info: Processing ended: Wed Sep 26 21:55:15 2018
     Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:01
 
