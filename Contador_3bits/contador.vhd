@@ -22,7 +22,7 @@ end contador;
 
 architecture comportamento of contador is        --Definindo a arquitetura.
 		
-		signal aux: std_logic_vector(2 downto 0);  --Variável de sinal auxiliar para. 
+		signal aux: std_logic_vector(2 downto 0);  --Variável de sinal auxiliar para o estado. 
 		component dec7seg is                       --Incluindo o componente dec7seg (decodificador).
 		port(s2, s1, s0 : in std_logic;            --Declarando as variáveis de entrada do dec7seg.
 		a, b, c, d, e, f, g : out std_logic);      --Declarando as variáveis de saída do dec7seg. 
@@ -41,7 +41,7 @@ begin
 				end if;
 			else
 				if (R = '0') then                  --Caso o enable esteja desativado e o reset ativado
-				aux <= "000";                      --Esvrevemos 000 na variável auxiliar. 
+				aux <= "000";                      --Escrevemos 000 na variável auxiliar. 
 				end if;
 			end if;
 				
