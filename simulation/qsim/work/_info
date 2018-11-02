@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Matheus\Documents\UFRN\Ciências e tecnologia\Quinto Semestre\Circuitos Digitais\CD\simulation\qsim
+vdivi_freq
+Z1 !s100 TjDi<1VZ3V`mgMADImD:R3
+Z2 I<G3h<Q>R0@L9;f=Az7RCV1
+Z3 V4UD7<An0_j3LP<U:Wgo3T2
+Z4 dC:\Users\Matheus\Documents\UFRN\Ciências e tecnologia\Quinto Semestre\Circuitos Digitais\CD\simulation\qsim
+Z5 w1538768404
+Z6 8Divi_freq.vo
+Z7 FDivi_freq.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Divi_freq.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1538768406.489000
+Z12 !s107 Divi_freq.vo|
+!s101 -O0
+vdivi_freq_vlg_check_tst
+!i10b 1
+Z13 !s100 H<Z6zb2NhCl41mn^j09]11
+Z14 I1JE3VY@PeQfLF0NFcSDGo2
+Z15 VE0D3L`Rfh05:`>3hbVd<52
+R4
+Z16 w1538768402
+Z17 8Divi_freq.vt
+Z18 FDivi_freq.vt
+L0 57
+R8
+r1
+!s85 0
+31
+Z19 !s108 1538768406.909000
+Z20 !s107 Divi_freq.vt|
+Z21 !s90 -work|work|Divi_freq.vt|
+!s101 -O0
+R10
+vdivi_freq_vlg_sample_tst
+!i10b 1
+Z22 !s100 US^C_8m=]T;MbVzDJP]^l0
+Z23 I;><jofMPo?W6ZBc?Mm9kP2
+Z24 V=Sl1fohfgZLIR9kVMd>DR1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vdivi_freq_vlg_vec_tst
+!i10b 1
+Z25 !s100 8WAdl_JL[M]KMfQ8FlgGA2
+Z26 IGW5VnNTOV`VCB;Z77>4Pz2
+Z27 V>n9N=kl0^3dgSbLBAnYb[2
+R4
+R16
+R17
+R18
+Z28 L0 152
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

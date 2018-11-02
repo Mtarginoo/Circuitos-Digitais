@@ -1,0 +1,15 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity sistema is
+	port (clock: in std_logic;
+			sw: in std_logic_vector(1 downto 0);
+			sensor: in std_logic_vector(1 downto 0);
+			acai: out std_logic_vector(2 downto 0);
+			guarana: out std_logic_vector(2 downto 0);
+			adequado, inadequado: out std_logic);
+end sistema;
+
+architecture comportamento of sistema is
+	
+	

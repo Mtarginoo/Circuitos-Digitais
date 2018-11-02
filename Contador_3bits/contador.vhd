@@ -38,7 +38,7 @@ begin
 					aux <= aux+1;                    --Somando +1, caso o incremento esteja ativado.
 				else 
 					aux <= aux-1;                    --Subtraindo 1, caso o dectremento esteja ativado. 
-				end if;
+				end if; 
 			else
 				if (R = '0') then                  --Caso o enable esteja desativado e o reset ativado
 				aux <= "000";                      --Escrevemos 000 na variável auxiliar. 
